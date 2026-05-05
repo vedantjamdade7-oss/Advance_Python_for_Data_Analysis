@@ -80,7 +80,7 @@ plt.show()
 ## 🧑‍💻 Author
 
 **Vedant Jamdade**  
-Data Analyst | Python & SQL Enthusiast  
+Aspiring Data Analyst | Python & SQL Enthusiast  
 
 
 
